@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "1bb277fc0158d4f8cef0c4a068f5c8bd"
+build_time: [568282717, 613736000]
+inputs:
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/testViewController.swift": [9223372036854775807, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/AppDelegate.swift": [9223372036854775807, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonAssignedTasks+CoreDataClass.swift": [9223372036854775807, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonAssignedTasks+CoreDataProperties.swift": [9223372036854775807, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonWorkersEmployeeDetails+CoreDataClass.swift": [9223372036854775807, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonWorkersEmployeeDetails+CoreDataProperties.swift": [9223372036854775807, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/Person+CoreDataClass.swift": [9223372036854775807, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/Person+CoreDataProperties.swift": [9223372036854775807, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/CoreDataSampleApp+CoreDataModel.swift": [9223372036854775807, 0]
